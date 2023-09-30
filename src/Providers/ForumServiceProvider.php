@@ -6,26 +6,16 @@ use Juzaweb\CMS\Support\ServiceProvider;
 
 class ForumServiceProvider extends ServiceProvider
 {
-    public function boot()
+    public function boot(): void
     {
         //
     }
 
-    /**
-     * Register the service provider.
-     *
-     * @return void
-     */
     public function register()
     {
         //
     }
 
-    /**
-     * Get the services provided by the provider.
-     *
-     * @return array
-     */
     public function provides()
     {
         return [];
