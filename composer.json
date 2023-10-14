@@ -3,7 +3,7 @@
     "description": "",
     "extra": {
         "juzaweb": {
-            "name": "juzaweb/forum",
+            "name": "Forum",
             "domain": "forum",
             "cms_min": "3.3",
             "version": "1.0",
